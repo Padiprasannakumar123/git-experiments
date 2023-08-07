@@ -21,4 +21,12 @@ function div(a,b){
 function test(){
     const expect=5;
     assert(expect==div(10,2),"divide 10 by 2 is 5");
+}/**
+ * 
+ * @param {number} a 
+ * @param {number} b 
+ * @returns 
+ */
+function mul(a,b){
+    return a*b;
 }
