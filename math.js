@@ -6,6 +6,6 @@
  * @param {number} b 
  * @returns 
  */
-function sub(a,b){
-    return a-b;
+function add(a,b){
+    return a+b;
 }
