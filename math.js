@@ -29,4 +29,12 @@ function test(){
  */
 function mul(a,b){
     return a*b;
+}/**
+ * 
+ * @param {number} a 
+ * @param {number} b 
+ * @returns the result
+ */
+function (a,b){
+    return a-b;
 }
