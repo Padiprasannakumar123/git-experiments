@@ -4,8 +4,9 @@
  * 
  * @param {number} a 
  * @param {number} b 
- * @returns 
+ * @returns the result
  */
+// This is multiplication
 function mul(a,b){
     return a*b;
 }
