@@ -39,3 +39,8 @@ function mul(a,b){
 function sub(a,b){
     return a-b;
 }
+
+
+function goodEveningFunction(user){
+    return `Good Evening, ${user}!`
+}
