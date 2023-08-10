@@ -39,3 +39,7 @@ function mul(a,b){
 function sub(a,b){
     return a-b;
 }
+
+function greet (){
+    return"good morning sai vasudha"
+}
