@@ -41,5 +41,5 @@ function sub(a,b){
 }
 
 function wish() {
-    print("hey guys!.. good Afternoon");
+    return "hey guys!.. good Afternoon";
 }
