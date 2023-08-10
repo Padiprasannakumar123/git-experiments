@@ -43,3 +43,7 @@ function sub(a,b){
 function greet (){
     return"good morning sai vasudha"
 }
+
+function wish() {
+    return "hey guys!.. good Afternoon";
+}
