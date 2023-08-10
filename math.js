@@ -41,6 +41,13 @@ function sub(a,b){
 }
 
 
+// code by himanshu.
+/**
+ * 
+ * @param {string} user 
+ * @returns (string) good evening, user!
+ */
+
 function goodEveningFunction(user){
     return `Good Evening, ${user}!`
 }
